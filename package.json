@@ -1,0 +1,9 @@
+{
+  "name": "packetutils",
+  "version": "0.1.0",
+  "description": "Dependency-free JavaScript helpers behind the PacketUtils CIDR and iptables tools",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://packetutils.com/",
+  "scripts": { "test": "node --test" }
+}
